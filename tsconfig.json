@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"allowSyntheticDefaultImports": true,
+		"noImplicitAny": true,
+		"module": "es6",
+		"target": "es5",
+		"allowJs": true,
+		"lib": ["DOM", "ES2020"],
+		"types": ["zone.js"]
+	},
+	"files": ["src/index.ts"]
+}
